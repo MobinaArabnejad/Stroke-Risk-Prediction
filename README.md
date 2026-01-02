@@ -37,10 +37,13 @@ This repository demonstrates a clean ML workflow with preprocessing + modeling i
 ## How to run
 # 1) Clone the repository
 ```bash
-git clone https://github.com/Mobina Arabnejad/stroke-risk-prediction.git
+git clone https://github.com/MobinaArabnejad/stroke-risk-prediction.git
 cd stroke-risk-prediction
 
 
 ---
 
-##DATASET : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+2) Dataset
+
+Dataset source (Kaggle):
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
