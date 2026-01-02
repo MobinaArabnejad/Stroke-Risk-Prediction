@@ -33,12 +33,9 @@ This repository demonstrates a clean ML workflow with preprocessing + modeling i
 - scikit-learn
 - matplotlib, seaborn
 
----
-## How to run
-# 1) Clone the repository
-```bash
-git clone https://github.com/MobinaArabnejad/stroke-risk-prediction.git
-cd stroke-risk-prediction
+'''
+###Data set:
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 
 ---
