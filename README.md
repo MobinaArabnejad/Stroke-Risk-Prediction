@@ -43,4 +43,4 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ## How to run
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<your-username>/stroke-risk-prediction.git
+git clone https://github.com/MobinaArabnejad/stroke-risk-prediction.git
